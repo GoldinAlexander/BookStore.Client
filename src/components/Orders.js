@@ -13,17 +13,17 @@ class Orders extends Component {
       <div>Orders</div>
     ) : (
       <div className="orders">
-        <h2>Orders</h2>
+        <h2>Заказы</h2>
         <table>
           <thead>
             <tr>
               <th>ID</th>
-              <th>DATE</th>
-              <th>TOTAL</th>
-              <th>NAME</th>
+              <th>ДАТА</th>
+              <th>ВСЕГО</th>
+              <th>ИМЯ</th>
               <th>EMAIL</th>
-              <th>ADDRESS</th>
-              <th>ITEMS</th>
+              <th>АДРЕС</th>
+              <th>КНИГИ</th>
             </tr>
           </thead>
           <tbody>

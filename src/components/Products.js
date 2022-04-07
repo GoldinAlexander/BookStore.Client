@@ -84,7 +84,7 @@ class Products extends Component {
                         this.closeModal();
                       }}
                     >
-                      Add To Cart
+                      Выбрать книгу
                     </button>
                   </div>
                 </div>

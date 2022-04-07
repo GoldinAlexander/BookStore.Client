@@ -122,7 +122,7 @@ class Cart extends Component {
               <div className="cart">
                 <div className="total">
                   <div>
-                    Total:{" "}
+                    Всего:{" "}
                     {formatCurrency(
                       cartItems.reduce((a, c) => a + c.price * c.count, 0)
                     )}
@@ -152,7 +152,7 @@ class Cart extends Component {
                           ></input>
                         </li>
                         <li>
-                          <label>Name</label>
+                          <label>Ваше имя</label>
                           <input
                             name="name"
                             type="text"
@@ -161,7 +161,7 @@ class Cart extends Component {
                           ></input>
                         </li>
                         <li>
-                          <label>Address</label>
+                          <label>Ваш адрес</label>
                           <input
                             name="address"
                             type="text"
