@@ -10,7 +10,7 @@ class Orders extends Component {
   render() {
     const { orders } = this.props;
     return !orders ? (
-      <div>Orders</div>
+      <div>Загрузка...</div>
     ) : (
       <div className="orders">
         <h2>Заказы</h2>
