@@ -1,5 +1,7 @@
 # BookStore.Client
-### React.js Frontend of the Client-Server PC pet-project of the online sopping "BookStore". 
+### React.js Frontend of the Client-Server PC pet-project of the online sopping "BookStore" Url:https://book-store-client.vercel.app 
+### BookStore.Server deployed on hoct reg.ru Url:https://bookstore-server.ru.
+### Data Base deployed on host somee.com.
 ### Developed in Visual Studio Code
 ___
 ### Stack:
