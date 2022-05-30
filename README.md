@@ -8,8 +8,10 @@ ___
 * Redux-Thunk
 _____
 * Главная страница **BookStore** со статистикой, фильтрами, корзиной покупок, кнопкой продолжить, формой заказа, и кнопкой **Проверить**
-
 ![scan1 for github](https://user-images.githubusercontent.com/75939181/161836623-1c1c30ce-17a5-4ead-9552-9a42d92efc4a.JPG)
+___
+* Модальное окно с подробной информацией о книге и кнопкой **Выбрать книгу**
+![подробно о книге](https://user-images.githubusercontent.com/75939181/170977225-527a2adf-11c8-4748-b53a-6d5478143f0d.JPG)_
 ___
 * Модальное окно с данными заказа отправленного в базу данных BookStore.Server и подтверждением для клиента 
 ![scan5_for_github](https://user-images.githubusercontent.com/75939181/162013676-4c738ec0-0e59-4d8f-a0b0-9290e83bc60a.JPG)
